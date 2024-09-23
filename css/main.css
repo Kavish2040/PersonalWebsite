@@ -12,6 +12,11 @@
 /* ------------------------------------------------------------
 2. General Styles
 ------------------------------------------------------------ */
+
+.js-count-particles{
+  font-size: 1.1em;
+}
+
 html {
   margin: 0;
   width: 100%;
@@ -1379,7 +1384,7 @@ textarea.form-control, textarea.form-control:focus {
   position: relative;
   float: right;
   margin: 0 0 4px;
-  color: #aaa;
+  color: rgb(255, 255, 255);
 }
 
 .skills-second-style .skill-percentage {
